@@ -1,0 +1,6 @@
+.idea
+server/database/dataset
+server/static/dataset
+server/static/result
+server/templates
+server/saved_features_recom.txt
